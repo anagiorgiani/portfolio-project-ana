@@ -1,3 +1,5 @@
+Repositório destinado ao desenvolvimento do portfólio utilizando React e Bootstrap, realizado com auxílio do curso da Udemy.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
