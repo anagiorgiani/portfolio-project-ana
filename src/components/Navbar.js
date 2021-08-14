@@ -19,19 +19,17 @@ export const Navbar = () => {
                             <a className="nav-link" href="#">Home <span sNclassName="sr-only"></span></a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">about me</a>
+                            <a className="nav-link" href="#">Sobre Mim</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">projects</a>
+                            <a className="nav-link" href="#">Projetos</a>
+                        </li>
+                       
+                        <li className="nav-item">
+                            <a className="nav-link" href="#">Portfolio</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">how work</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#">portfolio</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#">contacts</a>
+                            <a className="nav-link" href="#">Contatos</a>
                         </li>
 
                     </ul>

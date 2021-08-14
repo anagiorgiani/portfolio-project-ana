@@ -11,7 +11,7 @@ const AboutMe = () => {
                  </div> 
                  </div>
              <div className="col-lg-6 col-xm-12">
-                 <h1 className="about-heading">About me</h1>
+                 <h1 className="about-heading">Sobre Mim</h1>
                  <p>
                      Olá! Eu sou Ana Carolina Giorgiani, estudante de desenvolvimento web na Trybe, em formação de desenvolvimento Fullstack.
                      Estou em aprimoramento de tecnologias em Front-end como React, Redux, React Testing Library, metodologias ágeis como
