@@ -8,7 +8,8 @@
 }
 
 body {
-  font-family: "Roboto Condesed" sans-serif;
+  font-family: Roboto-Condesed sans-serif !important;
+  font-size: 3.125rem;
 
 }
 
@@ -50,6 +51,7 @@ nav ul li {
   .navbar-brand {
     width: 7rem;
   }
+}
 
 .navbar-nav > li > a:hover {
   border-top: 0.1875rem solid var(--primary-pink);
@@ -74,7 +76,7 @@ nav ul li {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: "Roboto Condesed" sans-serif;
+  font-family: Roboto-Condensed, sans-serif;
   z-index: 1;
 }
 
@@ -128,4 +130,34 @@ nav ul li {
     display: none;
   }
 }
+
+.photo-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-img {
+  width: 18rem;
+  border-radius: 30%;
+  padding: .3rem;
+  border: 1px solid var(--primary-pink);
+  margin-top: 2rem;
+}
+
+.about-heading {
+  color: var(--primary-pink);
+  text-transform: uppercase;
+  margin-top: 2rem;
+}
+
+p {
+  font-size: 1.50rem;
+  text-align: justify;
+}
+
+@media(max-width:468px) {
+  .profile-img {
+    width: 8rem;
+  }
 }

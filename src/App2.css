@@ -1,0 +1,78 @@
+.img {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #e37215 0%, #ffff53 100%) 1;
+}
+.es6 {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #7263ca 0%, #c96ac1 100%) 1;
+}
+
+.css {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #0ce242 0%, #e9c525 100%) 1;
+}
+
+.html {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #3ac0d8 0%, #88718a 100%) 1;
+}
+
+.jest {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #dd324e 0%, #1a6699 100%) 1;
+}
+
+.sql {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #f50c0c 0%, #0f6ab4 100%) 1;
+}
+
+.mongo {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #2c770e 0%, #47e018 100%) 1;
+}
+
+.redux {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #22249e 0%, #e60bdb 100%) 1;
+}
+
+.react {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #e37215 0%, #ffff53 100%) 1;
+}
+
+.git {
+    width: 103px;
+    height: 103px;
+    border: 4px solid;
+    border-image: 
+    linear-gradient(135deg, #ee8732 0%, #ff6753 100%) 1;
+}
