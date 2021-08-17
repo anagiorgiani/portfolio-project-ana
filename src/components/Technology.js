@@ -10,7 +10,6 @@ import git from "../images/git.png";
 import mongo from "../images/mongo.png";
 import sql from "../images/sql.png";
 import mona from "../images/lovelace.jpg";
-import "../App2.css";
 
 export const Technology = () => {
   return (
