@@ -76,3 +76,19 @@
     border-image: 
     linear-gradient(135deg, #ee8732 0%, #ff6753 100%) 1;
 }
+
+.contact {
+    width: 100px;
+    height: 100px;
+}
+
+.main {
+display: flex;
+justify-content: center;
+margin-top: 5%;
+}
+
+.contacts {
+    text-align: center;
+    margin-top: 20%;
+}
