@@ -24,12 +24,11 @@ nav {
 nav a.nav-link {
   letter-spacing: 0.0375em;
   cursor: pointer;
-  font-size: 1em;
+  font-size: 0.4em;
 }
 
 nav ul li {
   text-transform: uppercase;
-  margin-left: 3em;
 }
 
 .navbar-nav > li > a {
@@ -117,6 +116,7 @@ nav ul li {
   padding: 0.625rem 0.75rem 0.75rem 0.75rem;
   color: rgb(27, 23, 25) ;
   margin: 2rem;
+  font-size: 0.5em;
 
 }
 
